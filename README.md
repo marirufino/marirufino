@@ -16,7 +16,7 @@
   <a href="linkedin.com/in/mariana-rufino-a53ba6141/" target="_blank"><img align="center"src="https://img.icons8.com/fluency/30/000000/linkedin.png" target="_blank"/></a>
   <a href="https://github.com/wtfmahri/">👨‍💻 Viciada em aprender **Python** e outras linguagens (**Frontend**)</a>
  </div>
-  <div style="display: flex; align: center;">
+  <div align="center">
       <img heigh="100em" src="https://static.wixstatic.com/media/9a78e2_f9a67670aaa34603ba096cb16922ecc7~mv2.gif" alt="my octacat" />
   </div>
  
