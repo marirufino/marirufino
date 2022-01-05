@@ -1,9 +1,9 @@
 <h1 align="center"> 👽 Hello World!</h1>
 <h3 align="center">Software Developer | QA </h3>
-<div align="center" style="display: flex; flex-direction:row;">
+<div style="display: flex; flex-direction:row;">
   <a href="https://github.com/wtfmahri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wtfmahri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtfmahri&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wtfmahri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtfmahri&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 <div style="display: inline_block;"><br>
    <a href="https://www.java.com/pt-BR/download/help/develop.html"><img align="center" alt="Igor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
@@ -19,7 +19,7 @@
   
   ##
  
-<div> 
+
  
   ![Snake animation](https://github.com/wtfmahri/wtfmahri/blob/output/github-contribution-grid-snake.svg)
  
