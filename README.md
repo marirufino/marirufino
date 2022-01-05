@@ -3,7 +3,7 @@
 <div style="display: flex; flex-direction:row;">
   <a href="https://github.com/wtfmahri">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wtfmahri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img margin-left="20px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtfmahri&layout=compact&langs_count=5&theme=dracula"/>
+  <img margin-left="50px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtfmahri&layout=compact&langs_count=5&theme=dracula"/>
 </div>
  </br>
 <div style="display: inline_block;"><br>
