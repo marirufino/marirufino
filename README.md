@@ -1,7 +1,6 @@
 <h1 align="center"> 👽 Hello World!</h1>
 <h3 align="center">Software Developer | QA </h3>
 <div style="display: flex; align-items: center; flex-direction:row;">
-<p style="indent-text: 2em;">
   <a href="https://github.com/wtfmahri">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wtfmahri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtfmahri&layout=compact&langs_count=5&theme=dracula"/>
