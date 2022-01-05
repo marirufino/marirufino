@@ -19,10 +19,10 @@
   <a href="https://github.com/wtfmahri/">👨‍💻 Viciada em aprender **Python** e outras linguagens (**Frontend**)</a>
  </div>
   </br>
-  </br>
   <div align="center">
       <img heigh="100em" src="https://static.wixstatic.com/media/9a78e2_f9a67670aaa34603ba096cb16922ecc7~mv2.gif" alt="my octacat" />
   </div>
  </br>
+ 
    ![Snake animation](https://github.com/wtfmahri/wtfmahri/blob/output/github-contribution-grid-snake.svg)
  </div>
