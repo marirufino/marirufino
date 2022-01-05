@@ -15,7 +15,7 @@
   <a href="https://pt-br.reactjs.org"><img align="center" alt="Mahri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
   <a href = "mailto:mamari.rufino@gmail.com"><img align="center" src="https://img.icons8.com/color/30/000000/gmail--v1.png" target="_blank"></a>
   <a href="linkedin.com/in/mariana-rufino-a53ba6141/" target="_blank"><img align="center"src="https://img.icons8.com/fluency/30/000000/linkedin.png" target="_blank"/></a>
-  <a href="https://github.com/wtfmahri/">👨‍💻 Viciada em aprender **Python** e outras linguagens (**Frontend**)</a>
+  <a href="https://github.com/wtfmahri/">👨‍💻 Viciada em aprender Python e outras linguagens (Frontend)</a>
  </div>
   </br>
   <div align="center">
