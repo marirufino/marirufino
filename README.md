@@ -15,7 +15,7 @@
   <a href = "mailto:mamari.rufino@gmail.com"><img align="center" src="https://img.icons8.com/color/30/000000/gmail--v1.png" target="_blank"></a>
   <a href="linkedin.com/in/mariana-rufino-a53ba6141/" target="_blank"><img align="center"src="https://img.icons8.com/fluency/30/000000/linkedin.png" target="_blank"/></a>
   <a href="https://github.com/wtfmahri/">👨‍💻 Viciada em aprender **Python** e outras linguagens (**Frontend**)</a>
-  <img align="left" heigh="100em" src="https://static.wixstatic.com/media/9a78e2_f9a67670aaa34603ba096cb16922ecc7~mv2.gif" alt="my octacat" />
+  <img style="margin-left: 50em;" heigh="100em" src="https://static.wixstatic.com/media/9a78e2_f9a67670aaa34603ba096cb16922ecc7~mv2.gif" alt="my octacat" />
  </div>
  
 
